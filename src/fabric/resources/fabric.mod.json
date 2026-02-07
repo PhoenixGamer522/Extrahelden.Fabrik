@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "duelmod",
+  "version": "${version}",
+  "name": "DuelMod",
+  "description": "Fabric-Port der Extrahelden Duel Mod.",
+  "authors": ["Extrahelden"],
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.extrahelden.duelmod.DuelModFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
