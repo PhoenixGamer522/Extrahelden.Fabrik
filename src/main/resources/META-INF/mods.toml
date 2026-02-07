@@ -1,0 +1,43 @@
+modLoader="javafml"
+loaderVersion="[47,)" # Forge für MC 1.20.1
+license="MIT"
+
+[[mods]]
+modId="duelmod"   # <-- HIER statt forge_mod
+version="1.0.0"
+displayName="Duel Mod"
+description='''
+Eine Mod, die Duelle zwischen Spielern ermöglicht.
+'''
+authors="Extrahelden Team"
+
+# --- Pflichtabhängigkeiten ---
+[[dependencies.duelmod]]
+modId="forge"
+mandatory=true
+versionRange="[47.1.0,)"   # Forge 47.x
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.duelmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+
+# --- Citadel als Abhängigkeit ---
+[[dependencies.duelmod]]
+modId="citadel"
+mandatory=true
+versionRange="[2.6.2,)"    # Citadel-Version für MC 1.20.1
+ordering="NONE"
+side="BOTH"
+
+# --- Alex's Mobs als Abhängigkeit ---
+[[dependencies.duelmod]]
+modId="alexsmobs"
+mandatory=true
+versionRange="[1.22.0,)"   # Alex's Mobs für MC 1.20.1
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Specification-Title: forge_mod
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: forge-mod
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: 
+<<<<<<< HEAD
+Implementation-Timestamp: 2026-01-29T12:14:40+0100
+=======
+Implementation-Timestamp: 2026-01-26T18:58:30+0100
+>>>>>>> 34b620ad11efa9c2ad161dc0550ca7bba3233b17
+

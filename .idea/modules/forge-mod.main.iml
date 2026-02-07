@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+<<<<<<< HEAD
+=======
+          <platformType>FORGE</platformType>
+>>>>>>> 34b620ad11efa9c2ad161dc0550ca7bba3233b17
+          <platformType>MIXIN</platformType>
+          <platformType>MCP</platformType>
+        </autoDetectTypes>
+        <projectReimportVersion>1</projectReimportVersion>
+      </configuration>
+    </facet>
+  </component>
+  <component name="McpModuleSettings">
+<<<<<<< HEAD
+    <option name="mappingFile" value="C:\Users\leonl_3pvpiw6\Desktop\Official mod\Scheisse\build\createMcpToSrg\output.tsrg" />
+=======
+    <option name="mappingFile" value="C:\Users\hahnk\OneDrive\Dokumente\GitHub\Scheisse\build\createMcpToSrg\output.tsrg" />
+>>>>>>> 34b620ad11efa9c2ad161dc0550ca7bba3233b17
+    <option name="mcpVersion" value="official_1.20.1" />
+    <option name="minecraftVersion" value="1.20.1" />
+    <option name="platformVersion" value="47.2.0" />
+    <option name="srgType" value="TSRG" />
+  </component>
+</module>
